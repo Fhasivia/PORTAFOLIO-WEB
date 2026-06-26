@@ -1,0 +1,12 @@
+Coloca aquí tus capturas de pantalla del HOME de cada proyecto, con estos nombres EXACTOS (en minúsculas, con guiones, sin espacios ni tildes):
+
+luci-bakery.jpg          -> captura del home de www.lucibakery.com
+punto-parlante.jpg       -> captura del home de www.puntoparlante.com
+weedgreen.jpg            -> captura del home de www.weedgreen.com
+samadhi-spa.jpg          -> captura del home de www.samadhispa.com.co
+smash-avocaderia.jpg     -> captura del home de www.smashavocaderia.com
+
+Recomendaciones:
+- Formato JPG o PNG (si usas PNG, cambia la extensión en el index.html de .jpg a .png para esa imagen).
+- Relación de aspecto recomendada: 16:10 (por ejemplo 1600x1000 px) para que se vea nítido en la tarjeta.
+- Puedes tomarlas con la extensión de Chrome "GoFullPage" o con Cmd+Shift+4 / herramientas de captura del navegador, recortando solo el home (parte visible o un scroll completo).
